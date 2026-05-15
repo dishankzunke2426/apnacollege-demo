@@ -21,4 +21,10 @@ staged : file is ready to be committed . unmodified : unchanged.
 How the changes will be tracked by git ?
 by using add and commit
 
+add: adds new or changed file of the working directory to the git staging area.
+command : add filname , if many file simply use command : git add .  
+
+commit : it is record of change , record me jo changes kiye gai hai use save karna 
+kya change kiya hai uska message bhi dena hota hai .
+command : git commit -m "message"
 
